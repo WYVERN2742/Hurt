@@ -9,7 +9,7 @@
 ## Optional Requirements
 
 - VSCode IDE
-	- [Joel Day's Papyrus Extension(joelday.papyrus-lang-vscode)](https://marketplace.visualstudio.com/items?itemName=joelday.papyrus-lang-vscode)
+	- [Joel Day's Papyrus Extension (joelday.papyrus-lang-vscode)](https://marketplace.visualstudio.com/items?itemName=joelday.papyrus-lang-vscode)
 	- Updated version of [pyro](https://github.com/fireundubh/pyro) manually installed into the papyrus extension folder
 
 ## Building

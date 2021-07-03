@@ -14,11 +14,11 @@ Inspired by [ApolloDown's Important Information Overhaul for Skyrim LE](https://
 The provided MCM menu contains fully annotated options, along with a setting
 reset button.
 
-![MCM Overview](docs\img\mcm-overview.png)
+![MCM Overview](docs/img/mcm-overview.png)
 
 ## Effects
 
-![Effects List](docs\img\mcm-effects.png)
+![Effects List](docs/img/mcm-effects.png)
 
 Currently supported effects are:
 
