@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+
+<!-- Game is either sse, tesv, or fo4 -->
+<PapyrusProject xmlns="PapyrusProject.xsd"
+	Flags="TESV_Papyrus_Flags.flg"
+	Game="sse"
+	Output="Scripts"
+	Optimize="true"
+	Release="true"
+	Final="true">
+	<Imports>
+		<Import>.\Source\Scripts</Import>
+
+		<!-- Skyrim SE scripts folder -->
+		<Import>E:\Games\Steam\steamapps\common\Skyrim Special Edition\Data\Source\Scripts</Import>
+
+		<!-- SKYUI SDK folder -->
+		<Import>E:\Games\Skyrim Special Edition\Mod Organizer 2\mods\201 - SkyUI\Source\Scripts</Import>
+	</Imports>
+	<Folders>
+		<Folder>.\Source\Scripts</Folder>
+	</Folders>
+</PapyrusProject>
